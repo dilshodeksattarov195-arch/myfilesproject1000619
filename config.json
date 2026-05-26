@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvpdate",
+        "uuid": 1205812,
+        "checksum": "l3kc6n"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
